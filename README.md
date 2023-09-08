@@ -23,4 +23,16 @@ Then update the file location to the `index.html` file that you saved earlier
 
 ## **Import Streamer.bot code**
 
+Now get the `points_leaderboard.sb` file and import it into Streamer.bot
+
+Should be just 1 action and 1 command.
+
+You can test it out by right-clicking the Test trigger and selecting `Test Trigger` and you should see the browser source update.
+
+
+From there you can add some sub-actions to make the browser source visable for a few seconds, and then invisible or whatever you want to do. :)
+
+![image](https://github.com/Haunter56/Points-Leaderboard-Instructions/assets/107263697/98f85d8d-9e29-4e31-960f-65cc3a9ca230)
+
+
 
